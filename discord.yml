@@ -33,6 +33,23 @@ Embeds:
         Inline: false
         Header: 'Estado'
         Content: 'Vinculado com sucesso.'
+  vincular_dc:
+    Title: 'Vinculação de conta'
+    Thumbnail: ''
+    Color: '#fff'
+    Footer:
+      Text: '{data} às {hora}'
+      Image: ''
+    Description: ''
+    Fields:
+      jogador:
+        Inline: false
+        Header: 'Seu código é'
+        Content: '`{code}`'
+      estado:
+        Inline: false
+        Header: 'Entre no servidor do Minecraft'
+        Content: 'Digite o comando: `/vinculardc {code}`'
   ystafflogin_verificacao:
     Title: 'Realize seu LoginStaff'
     Thumbnail: ''

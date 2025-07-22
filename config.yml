@@ -109,6 +109,7 @@ Mensagens:
   Chat: '&cVocê não pode enviar mensagens antes de se vincular. -> /vincular'
   DesvincularBooster: '&cVocê não pode desvincular enquanto for server-booster.'
   Ja vinculado player: '&cO jogador &f{player}&c já está vinculado.'
+  Codigo invalido: '&cCódigo inválido ou expirado!'
   Vinculou target:
     - ''
     - '&aVocê vinculou com sucesso o discord do jogador &f{player}&a.'

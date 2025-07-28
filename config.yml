@@ -18,6 +18,11 @@ Comando:
     Comando: 'discord'
     Aliases: [ ]
 
+# Comando no discord
+Discord-Command:
+  enabled: true
+  commands: [ 'vincular' ]
+
 # Ativar a troca do sistema de chat quando estiver no mohist
 # compatível apenas com: UltimateChat, nChat e Legendchat
 mohist-chat: false
